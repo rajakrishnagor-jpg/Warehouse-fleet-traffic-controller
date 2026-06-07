@@ -43,4 +43,4 @@ if __name__ == "__main__":
     
     print(f"Current Global Blocked Barcode Registry: {list(controller.blocked_barcodes)}")  
 
-Feat: Implement dynamic obstacle rerouting and barcode blocking logic
+
